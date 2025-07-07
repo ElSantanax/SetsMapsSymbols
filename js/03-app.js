@@ -1,4 +1,4 @@
-// Maps toman una llave y un valor - si son iterrable
+// Maps toman una llave y un valor - si son iterable
 
 const cliente = new Map();
 
