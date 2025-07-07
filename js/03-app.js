@@ -19,7 +19,7 @@ console.log(cliente);
 
 // Ejemplo
 const paciente = new Map([['nombre', 'José'], ['cuarto', 'disponible']]);
-paciente.set('dr', 'Pepe');
+paciente.set('dr', 'Gonzales');
 console.log(paciente);
 
 paciente.forEach(datos => {
